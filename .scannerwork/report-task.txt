@@ -1,0 +1,6 @@
+projectKey=DataCleaning
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=DataCleaning
+ceTaskId=f548200d-4295-4af5-a8b0-f2b1d4af1773
+ceTaskUrl=http://localhost:9000/api/ce/task?id=f548200d-4295-4af5-a8b0-f2b1d4af1773
